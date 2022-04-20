@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(0, 255, 255, 0.313);
+}
+
+h3{
+    text-align: center;
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 80px;
+}
+
+label{
+    font-size: 40px;
+    font-family: 'Send Flowers', cursive;
+    color: blue;
+}
+
+.btn-success{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
